@@ -7,13 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://bcfujiy.github.io/sarabrian-wedding/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>info</title>
-      <link>https://bcfujiy.github.io/sarabrian-wedding/elements/</link>
+      <title>La fiesta</title>
+      <link>https://bcfujiy.github.io/sarabrian-wedding/page1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bcfujiy.github.io/sarabrian-wedding/elements/</guid>
-      <description>All of it  Table of contents Text Code  Python C/C++ Bash   Tables  Text Some example text
-Code Python def foo(): print (&amp;#34;This is a python function&amp;#34;) C/C++ void foo(){ prinf(&amp;#34;%s\n&amp;#34;, &amp;#34;This is a C function&amp;#34;) } Bash # This is a bash command cd dir &amp;amp;&amp;amp; echo $PWD; # Return exit 0; Tables    Pages Elements     1 Text   2 Code   3 Tables    </description>
+      <guid>https://bcfujiy.github.io/sarabrian-wedding/page1/</guid>
+      <description>We are getting married! We love you, please celebrate with us :)
+When Saturday, October 30th, 2021
+Welcome drinks: 1:30pm
+Ceremony: 2:30pm
+Aperitivi: 3:00pm
+Dinner: 4:30pm
+Where La Selva Giardino del Belvedere
+Montegonzi, Cavriglia, Tuscany, Italy
+Here and here are videos about the place!
+Attire Cocktail
+More fun Pizza at the Villa: Sunday, October 31, 2021 at noon</description>
+    </item>
+    
+    <item>
+      <title>Preguntas</title>
+      <link>https://bcfujiy.github.io/sarabrian-wedding/page2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bcfujiy.github.io/sarabrian-wedding/page2/</guid>
+      <description>How do we get there?  See here for directions and transportation options to Montevarchi, the nearest town to the villa See here for driving directions to the villa - we recommend you print these out if you’re driving! See here for a video of the drive from A1 VALDARNO Exit  Should we rent a car? There are transportation options (e.g., trains) to Montevarchi, the nearest town, but you may want to rent a car to fully explore the area.</description>
+    </item>
+    
+    <item>
+      <title>Que mas</title>
+      <link>https://bcfujiy.github.io/sarabrian-wedding/page3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bcfujiy.github.io/sarabrian-wedding/page3/</guid>
+      <description>Exploring Tuscany We hope you’ll get to experience Tuscany (and Italy) while you’re here - whether together with us or on your own. In the region, we’ve enjoyed exploring small towns, visiting markets and castles, and of course eating our way across the countryside.
+There are lots of places to visit nearby; including 7 UNESCO World Heritage Sites within 60 to 90 minutes by car or train. Tuscany is the region with the largest number of UNESCO World Heritage Properties in the world.</description>
     </item>
     
   </channel>
